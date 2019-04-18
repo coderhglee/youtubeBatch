@@ -1,0 +1,1487 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/g9GWRD9_GJb158z82larZfH3MPo\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PZK5kdtKDwE"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:43:56.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "북한대사관 벽에 &quot;김정은 타도&quot; 낙서…김한솔 보호단체가 한듯",
+      "description": "말레이시아에 있는 북한 대사관 담벼락에 어제 밤 누군가가 김정은을 타도하라는 낙서를 했습니다. 최근 북한 망명정부를 선언한 천리마 민방위...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PZK5kdtKDwE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PZK5kdtKDwE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PZK5kdtKDwE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jwYv00k4r25L0X8gsrCkSlZfwag\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7LCxei8yFps"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:23:52.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[TV조선 LIVE] 3월 11일 (월) 뉴스 9  - 23년 만에 법정 선 전두환",
+      "description": "[TV조선 LIVE] 3월 11일 (월) '뉴스 9' 주요뉴스 ○ 23년 만에 법정 선 전두환…거센 항의에 몸싸움도 ○ \"北, 1차 미북회담 이후 핵무기 6개 분량 핵물질...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7LCxei8yFps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7LCxei8yFps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7LCxei8yFps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5uKnErzUvnFvdXZNWc6PHV2zzj0\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "V1ixhWzv7kQ"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:50:48.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "암흑천지 베네수엘라 [신동욱 앵커의 시선]",
+      "description": "파국의 출발점은 포퓰리즘 독재자 차베스입니다. 그는 국기에서 이렇게 오른쪽으로 달리는 말이 우파를 상징한다며 이렇게 왼쪽으로 돌려 놓았습니...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V1ixhWzv7kQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V1ixhWzv7kQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V1ixhWzv7kQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/TaA3PpvbRSYktD1IOfhXt5zZxoc\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "iPkOAOqTi5Q"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T04:07:47.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[TV조선 LIVE] 3월 11일 (월) 뉴스 퍼레이드 - &quot;김정은과 빅딜 논의 준비…北 예의주시&quot;",
+      "description": "[TV조선 LIVE] 3월 11일 (월) '뉴스 퍼레이드' 주요뉴스 ○ \"김정은과 빅딜 논의 준비…北 예의주시\" ○ 23년 만에 법정 출석…곧 자택 출발 ○ 3월...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iPkOAOqTi5Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iPkOAOqTi5Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iPkOAOqTi5Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HLqG5M9x5fnbddV7Ok3fg-GagBM\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zdu8niXIv7k"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T10:48:53.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "3월 11일 &#39;뉴스 9&#39; 예고",
+      "description": "1. 전두환, 23년 만에 법정 출석…명예훼손 혐의 '전면 부인' 2. NYT \"北, 1차 미북회담 후 핵무기 6개 추가 제조\" 3. '성접대 알선 의혹' 승리, 연예계...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zdu8niXIv7k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zdu8niXIv7k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zdu8niXIv7k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wTtF1-reIlZqpLm2YL2cv54yWjE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "H1rKhqXO1Ys"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T05:22:07.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[TV조선 LIVE] 3월 11일 (월) 신통방통 - 전두환, 광주로 출발",
+      "description": "[TV조선 LIVE] 3월 11일 (월) '신통방통' ○ 전두환, 광주로 출발 ○ 비정한 남편의 기막힌 전과 ○ 피의자 된 승리…입대 연기? 월~금 07:30 뉴스퍼레...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/H1rKhqXO1Ys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/H1rKhqXO1Ys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/H1rKhqXO1Ys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/unhs86TPkbX2gKTJPgAjQG2Bm8E\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Y32ZId-v3H4"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T06:24:04.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[TV조선 LIVE] 3월 11일 (월) 보도본부 핫라인 - 전두환, 광주 법정 출석",
+      "description": "[TV조선 LIVE] 3월 11일 (월) '보도본부 핫라인' ○ 전두환, 광주 법정 출석 ○ 한국당 지지율 30%선 회복 ○ 조국, SNS 떠난 후 유튜브로? 월~금 07:30...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y32ZId-v3H4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y32ZId-v3H4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y32ZId-v3H4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_QSILxP7WX7PuFq47TE1e4sW8c4\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "putRj1NbFoo"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T10:26:05.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[TV조선 LIVE] 3월 11일 (월) 시사쇼 이것이 정치다  - 전두환의 첫 마디 &quot;왜 이래&quot;",
+      "description": "[TV조선 LIVE] 3월 11일 (월) '시사쇼 이것이 정치다' ○ 전두환의 첫 마디 \"왜 이래\" ○ \"아버지, 정신질환 아냐\" ○ 김정남 살해 女, 전격 석방 ○ 황교안...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/putRj1NbFoo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/putRj1NbFoo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/putRj1NbFoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GMC3e9H52HhuAUUQKByAfZYhuDQ\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "nIldxDgKD4Y"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T23:55:32.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[TV조선 LIVE] 3월 12일 (화) 뉴스 퍼레이드  - &quot;WMD 폐기 약속해야…점진적 비핵화 안 해&quot;",
+      "description": "[TV조선 LIVE] 3월 12일 (화) '뉴스 퍼레이드' 주요뉴스 ○ \"WMD 폐기 약속해야…점진적 비핵화 안 해\" ○ 4당 '선거제 근접'…\"의회민주주의 말살\" ○...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nIldxDgKD4Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nIldxDgKD4Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nIldxDgKD4Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9Owxl6fhpeffbHgVVu_QDXjMtN8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6KeHNQM9Ju8"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:58:21.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "김연철 &quot;천안함 연계 없이 5·24조치 해제 검토&quot;",
+      "description": "김연철 통일부장관 내정자의 과거 발언을 둘러싸고 논란이 일고 있습니다. 천안함 사건과 연계하지 말고 우리 정부의 5·24제재를 해제해야 한다고...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6KeHNQM9Ju8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6KeHNQM9Ju8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6KeHNQM9Ju8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ubmlmooBTEIuT5gvpUTB0zrvaN8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "R5QriyES_To"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T12:11:37.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "전두환, &#39;발포명령&#39; 묻자 &quot;이거 왜 이래&quot;…주소이름 질문엔 &quot;네 맞습니다&quot;",
+      "description": "전두환 전 대통령은 법원으로 들어갈 때 취재진이 발포 명령에 대해 묻자 약간 신경질적으로 들리는 반응을 보이기도 했습니다. 하지만 법정에서는...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R5QriyES_To/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R5QriyES_To/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R5QriyES_To/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j-kK4_IEAinZVsJeu3iKxBorkNQ\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8B1JFgHYCK8"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:58:25.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "NYT &quot;북한, 1차 미북회담 후 핵탄두 6개 분량 핵물질 생산&quot;",
+      "description": "북한이 지난해 1차 미북정상회담 이후에도 상당량의 핵물질을 생산했다고 미국 언론이 보도했습니다. 트럼프 대통령도 이 정보를 보고 받았지만...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8B1JFgHYCK8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8B1JFgHYCK8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8B1JFgHYCK8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CEAIeNDqI242jEJlxlwst51KXDA\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "L6V-WRVyLDY"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:25:57.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "볼턴 &quot;눈 한번 깜빡 않고 북한 주시&quot;…잇단 경고, 왜?",
+      "description": "볼턴 백악관 안보보좌관은 \"우리는 눈 한번 깜빡이지 않고 북한을 지켜 보고 있다\"고 말했습니다. 우리는 너희가 무엇을 하고 있는지 다 알고 있다는...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L6V-WRVyLDY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L6V-WRVyLDY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L6V-WRVyLDY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ww5koj10puuHoVwEnlNnsbpj_PE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NxIDqJ68q48"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:58:22.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "승리 &#39;성 접대 의혹&#39; 카톡방에 유명 가수 2명 등장…몰카 공유?",
+      "description": "경찰이 가수 승리의 카카오톡 대화 기록을 분석해, 승리를 성매매 알선 혐의 피의자로 입건했습니다. 이 대화방에 함께 있던 현직 가수도 참고인...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NxIDqJ68q48/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NxIDqJ68q48/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NxIDqJ68q48/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Rjf39OHft08MvQFSo4NHdqg4s_8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7eT9gtC8K7o"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T01:41:09.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[홍지화의 날씨캠] 이번 주 날씨와 세차 지수 (2019.03.11)",
+      "description": "대기가 정체되면서 미세먼지 농도가 다시 높아지고 있습니다. 오늘 중부지역에 계신 분들은 미세먼지 마스크 꼭 착용하셔야겠고요, 밤에는 중국발...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7eT9gtC8K7o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7eT9gtC8K7o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7eT9gtC8K7o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/nNpLvFABsEythl9-szgFWrJNceQ\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8yuQLGpsJnQ"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T02:26:20.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "전두환, 재판 출석차 광주행…23년만에 법정 선다 [아침에 스토리]",
+      "description": "이번엔 화제가 된 이슈를 짚어보는 시간, '아침에 스토리' 입니다. 김광덕 전 한국일보 정치부장 계속해서 함께 해 주시고요. 최영일 평론가, 백성문...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8yuQLGpsJnQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8yuQLGpsJnQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8yuQLGpsJnQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/FIty6BPcR33m8kMPV2mgZZvSapM\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8l1kWx-DBwU"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:40:50.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "한국 자동차 &#39;내우외환&#39;…기아차 中 공장도 가동 중단될 듯",
+      "description": "중국 공장 정리에 나선 현대차에 이어 기아자동차도, 중국 공장 가동 중단을 검토하고 있습니다. 해외 뿐 아니라, 국내 시장에서도 판매부진이...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8l1kWx-DBwU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8l1kWx-DBwU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8l1kWx-DBwU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9DG8tmrhpDmfFrFJ0gCltlB14hE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zM6158jTA0g"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:14:42.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "전두환, 서울 복귀…귀가 전 세브란스 병원행",
+      "description": "재판을 마친 전 전 대통령은 곧바로 서울로 돌아 왔습니다. 당초 연희동 자택으로 갈 예정이었지만 귀가 전 세브란스 병원에 들렸습니다. 장시간...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zM6158jTA0g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zM6158jTA0g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zM6158jTA0g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eahYLQoVfJIGcKsFdPTcCiPGUHI\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "d96TBI2bfRk"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T00:43:57.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "여야, &#39;패스트트랙&#39; 놓고 강대강 대치 [아침에 이슈]",
+      "description": "가까스로 열린 3월 국회가 문을 열자마자 암초를 만날 분위기입니다. 여야 4당과 한국당이 선거제 개혁 패스트트랙 문제를 놓고 정면 충돌하고...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d96TBI2bfRk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d96TBI2bfRk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d96TBI2bfRk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DCOLmHnkvWmBs6Q3n5kYzz3GfH8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zmSTZOvPJG0"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:38:27.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "여대앞 묻지마 칼부림 &#39;공포의 15분&#39;…&quot;또 일어날까 불안&quot;",
+      "description": "어제 서울 성신여대 인근에서 흉기를 휘두른 50대 남성은, 기초생활수급비를 주지 않는다는 이유로, 시민들에게 묻지마 범행을 저지른것으로 드러났...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zmSTZOvPJG0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zmSTZOvPJG0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zmSTZOvPJG0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GEit6E5QS3EoiBI9kqUOSrTzKMw\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oUiZgFqH0_Q"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:48:07.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "공짜라더니 사진 찍은후 &quot;돈 내고 찾아라&quot;…&#39;미끼&#39;였다 [CSI]",
+      "description": "사진관에서 무료 촬영해준다는 홍보를 종종 볼 수 있는데요 이렇게 공짜로 사진을 찍어주겠다고 고객을 끌어들인 뒤, 제대로 된 사진을 받으려면...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oUiZgFqH0_Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oUiZgFqH0_Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oUiZgFqH0_Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OBsRKPzQo4KxkOxfi2A51V9rKY8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xOhCwSlkhTk"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:39:46.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "뿔난 여론에 놀란 정부 &quot;카드 소득공제 연장 검토&quot;",
+      "description": "지난주 정부가 신용카드 공제 혜택을 크게 축소할 것처럼 발언을 이어가자, 사실상 증세 아니냐는 반발 여론이 쏟아졌는데요 결국 정부가 일주일...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xOhCwSlkhTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xOhCwSlkhTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xOhCwSlkhTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/AIR09KsMisGYxeEYLQsc2oHu_Ao\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "GJWEk_U8uXU"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:43:03.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "&#39;김정남 살해&#39; 인니 여성 전격 석방…입장 바꾼 이유는",
+      "description": "말레이시아가 김정은 북한 국무위원장의 이복형 김정남을 살해한 혐의를 받아온 인도네시아인 여성을 전격 석방했습니다. 말레이시아 검찰은...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GJWEk_U8uXU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GJWEk_U8uXU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GJWEk_U8uXU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/N6p--VDhrXI2lKz6h73cc1LorMU\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3zinf6SyElc"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:46:08.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "&#39;보잉 737 맥스&#39; 5개월 만에 또 추락…국내 항공사도 비상",
+      "description": "에티오피아 항공 여객기가 추락해 타고 있던 승객과 승무원 모두 숨졌습니다. 사고가 난 항공기는 보잉사의 신형 기종인데, 다섯달 만에 두 차례나...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3zinf6SyElc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3zinf6SyElc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3zinf6SyElc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/zsDOiJ3jKb5k3xo1FGVt1253fMo\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Qz2_j8HjhZ4"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:36:37.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "연예계 은퇴 선언한 승리 &quot;&#39;국민 역적&#39;으로 몰려…&quot;",
+      "description": "가수 승리씨가 오늘 돌연 연예계 은퇴를 선언했습니다. 그룹 빅뱅과 소속사를 위해 내린 결정이라고 했습니다. [Ch.19] 사실을 보고 진실을 말합니...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qz2_j8HjhZ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qz2_j8HjhZ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qz2_j8HjhZ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/okouv68uxSIND526ijmvNO2Dmtk\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PCXkAtqJOHg"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T04:49:52.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "전두환, 23년만에 법정 출석…광주지법 도착",
+      "description": "5·18 민주화운동 관련 명예훼손 혐의로 기소된 전두환 전 대통령이 재판 출석차 광주로 출발했습니다. [Ch.19] 사실을 보고 진실을 말합니다. ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PCXkAtqJOHg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PCXkAtqJOHg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PCXkAtqJOHg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/326rKXRKM8cZU6oqmYqeuXaLH7I\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "3F9CUM4bP3c"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:24:48.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "전두환 &#39;사자명예훼손&#39; 쟁점은? [따져보니]",
+      "description": "이번 재판의 핵심적인 쟁점은 어떤 것들인지 하나 하나 따져보도록 하겠습니다. 강동원 기자, 일단은 고 조비오 신부에 대한 '사자명예훼손' 혐의를...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3F9CUM4bP3c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3F9CUM4bP3c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3F9CUM4bP3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Am1Js4EayjszL29qsWXoDVqC7KM\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "5rcU3NvBgas"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:41:52.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "홍영표 &quot;노조, 3년간 임금 동결해야&quot;…민노총 &quot;오만한 편향성&quot;",
+      "description": "최근 제조업 부진과 경기 둔화로 고용 시장에 한파가 이어지자 오늘 민주당 홍영표 원내대표가 경기 회복의 열쇠로 노동 개혁을 예고했습니다....",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5rcU3NvBgas/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5rcU3NvBgas/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5rcU3NvBgas/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-RRb68RPLtzKtd5WzM4CMzlI_EU\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "L8_giY_t02Q"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T00:36:10.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "패스트트랙 정면충돌 [영상뉴스]",
+      "description": "갈 길 먼 선거제도 개혁 김관영 / 바른미래당 원내대표 \"국회는 기본적으로 대화와 타협 통해서 또 협치를 하면서 같이 가야한다. 그러나 오늘까지...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L8_giY_t02Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L8_giY_t02Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L8_giY_t02Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/dn9qWQ2DIvAOUUZxmvd_fZkZplI\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TPnxStVnpqw"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T00:58:18.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "전두환, 23년 만에 법정에…재판 출석 위해 광주행",
+      "description": "전두환 전 대통령이 오늘 오후 2시 30분 광주지방법원에 출석합니다. 회고록에서 헬기 사격을 제기한 고 조비오 신부를 비하해, 사자 명예훼손...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TPnxStVnpqw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TPnxStVnpqw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TPnxStVnpqw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7EkJpusdge8Pg0XsiPLsKTUiOqM\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "N9CXi2rdN0Q"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T12:08:42.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "3월 11일 &#39;뉴스 9&#39; 헤드라인",
+      "description": "1. 전두환 전 대통령이 5.18 민주화운동 이후 23년 만에 광주 법정에 섰습니다. 전 전 대통령 측은 사자명예훼손 혐의를 부인했고, 재판은 76분만에...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N9CXi2rdN0Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N9CXi2rdN0Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N9CXi2rdN0Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pHeI0xO49mkNCvtxlPqd_fOQjbw\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Ll0x8zMh6GE"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:58:18.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "전두환 23년만에 법정 출석…&quot;헬기사격 없었다&quot; 혐의 부인",
+      "description": "전두환 전 대통령이 23년 만에 피고인 신분으로 다시 법정에 출석했습니다. 2017년 출간한 회고록에서 5·18 당시 헬기사격이 있었다고 증언한 고...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ll0x8zMh6GE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ll0x8zMh6GE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ll0x8zMh6GE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sANJRoMV38O6ChbwfOgy5vO2O7A\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "f_hyD-EbKVc"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:26:52.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "임종헌 &quot;공소장, 검찰발 미세먼지로 형성된 신기루&quot; 비판",
+      "description": "사법행정권 남용 혐의로 구속기소된 임종헌 전 법원행정처 차장이 오늘 첫 공판에서 검찰을 작심비판했습니다. 당대 최고의 화가였던 루벤스를...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f_hyD-EbKVc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f_hyD-EbKVc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f_hyD-EbKVc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/-Kw289O5ozzdoqM9LtRhMefDUy4\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "gHuKsVYC6Co"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:56:54.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[단독] 화재 생존자를 사망자로 오인·방치…26일 만에 사망",
+      "description": "화재 현장에서 소방당국이, 생존자의 상태를 제대로 확인하지 않고 사망자로 판단해, 1시간동안 방치한 사실이 뒤늦게 알려졌습니다. 이 생존자는...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gHuKsVYC6Co/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gHuKsVYC6Co/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gHuKsVYC6Co/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HSEyfVNfVnrPlJzlF8N-oPJXYGM\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "fV_wIbC3TGI"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T10:08:39.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[날씨] 서쪽 비 밤사이 소강…오늘밤 中스모그 유입",
+      "description": "전국이 흐린 가운데 오늘 밤까지 서울과 경기남부 충청과 남부지방에 5mm 미만 비가 내리겠고요. 밤 9시즘 대체로 소강상태 들겠습니다. 오늘밤에는...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fV_wIbC3TGI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fV_wIbC3TGI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fV_wIbC3TGI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2_qXX0rCuL5nNmwbszppKV9D9KM\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "x89TY7Dl8yc"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T00:21:17.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[TV조선 LIVE] 3월 11일 (월) 네트워크 뉴스 - 광주수영대회 후원사 현장 점검",
+      "description": "[TV조선 LIVE] 3월 11일 (월) '네트워크 뉴스' 주요뉴스 ○ 광주수영대회 후원사 현장 점검 ○ [초대석] 한범덕 청주시장 ○ 서울시, 쪽방주민에게...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x89TY7Dl8yc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x89TY7Dl8yc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x89TY7Dl8yc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5VqeMVjrUngkDnphMAr0d07l-GY\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CrDzZvljDkI"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:33:42.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "유시민 &#39;알릴레오&#39;는 국정 홍보방송? [포커스]",
+      "description": "조국 청와대 민정수석이 공수처 도입 논쟁을 촉발시킨 곳, 바로 유시민씨의 유튜브 방송 '알릴레오'였죠. 청와대 수석과 특보, 현직 장관까지 이...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CrDzZvljDkI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CrDzZvljDkI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CrDzZvljDkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/tZFfba2a4GgGiP6xU3pqPI6ciOA\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kp8xBvn5K5k"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:48:51.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "&#39;5G 자율주행차&#39;, 서울서 세계 최초로 도심 주행 성공",
+      "description": "5G 이동통신을 이용한 자율주행차가 세계 최초로 도심 주행에 성공했습니다. 통제가 전혀 이뤄지지 않은 도로에서 일반 차량들과 뒤섞여 차선변경,...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kp8xBvn5K5k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kp8xBvn5K5k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kp8xBvn5K5k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jjOcu2nptKEuF-XFos2JF066b4Q\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6GVQK_MYwBY"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T02:06:07.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "23년만에 법정 서는 전두환 전 대통령…곧 광주로 출발",
+      "description": "전두환 전 대통령이 오늘 오후 2시 30분 광주지방법원에 출석합니다. 회고록에서 헬기 사격을 제기한 고 조비오 신부를 비하해서, 사자 명예훼손...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6GVQK_MYwBY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6GVQK_MYwBY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6GVQK_MYwBY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/WyP9r6FLZpL89Ugf3NeROhI10yU\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "d-XyAHpPp5A"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T02:06:09.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "국회, 오늘부터 대표 연설…여야 &#39;선거법 패스트트랙&#39; 갈등",
+      "description": "국회는 오늘부터 민주당 홍영표 원내대표를 시작으로 사흘간 교섭단체 대표 연설을 합니다. 여야는 '선거제 패스트트랙' 문제로 첨예하게 맞서고...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d-XyAHpPp5A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d-XyAHpPp5A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d-XyAHpPp5A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j7TIudL5ouuvht68ZKSBnCtvw04\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DSBRoRqS9jI"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:11:32.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "광주 시민-경찰 뒤엉켜 몸싸움…법원 일대 &#39;아수라장&#39;",
+      "description": "광주 법원 주변은 아침 일찍부터 항의 시민들이 모여 들어 하루 종일 어수선했습니다. 전 전 대통령이 재판을 마치고 나올때는 질서유지선이 무너지...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DSBRoRqS9jI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DSBRoRqS9jI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DSBRoRqS9jI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pNq31gulkrjfekdp1b97CgHrS4s\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XOa9VGFqEjU"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T13:52:20.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "[날씨] 중부·영남 오후 비…수요일부터 꽃샘추위",
+      "description": "이번주는 봄비가 잦고 꽃샘추위가 찾아오겠습니다. 내일 오후부터 또다시 비가 내리겠는데요. 경기동부, 충청, 남부내륙 5mm 미만 예상돼고, 강원영...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XOa9VGFqEjU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XOa9VGFqEjU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XOa9VGFqEjU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/bv0DmlDTTvhVm_zNPwOLNLAOqYk\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ySVIJeWWrlI"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T00:56:01.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "한범덕 청주시장 &quot;청주, 특례시로 지정돼야&quot; [네트워크 초대석]",
+      "description": "지방자치단체장을 만나 직접 얘기를 들어보는 '네트워크 초대석' 입니다. 오늘은 특례시 지정을 추진하고 있는 충북 청주시의 한범덕 시장을 김달호...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ySVIJeWWrlI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ySVIJeWWrlI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ySVIJeWWrlI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/OQv3pepZwmSqnLsBJ2D58MrnQt4\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "WCdaIOcHyOI"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T00:55:59.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "FINA 공식 후원사 광주 방문…수영대회 개폐회식 주제 공개",
+      "description": "광주에서 열리는 세계수영선수권 대회 개막이 네달 앞으로 다가왔습니다. 막바지 준비가 한창인 가운데 국제수영연맹, FINA 대표단과 공식 후원사가...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WCdaIOcHyOI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WCdaIOcHyOI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WCdaIOcHyOI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/_T0OCDcQtHHfwvSPLEaivfjU_68\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "K2W__FqDDiM"
+    },
+    "snippet": {
+      "publishedAt": "2019-03-11T02:03:40.000Z",
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "title": "문재인 대통령, 오늘 브루나이 정상회담…신남방정책에 속도",
+      "description": "문재인 대통령은 오늘 브루나이 국왕과 정상회담을 하며 동남아 순방 일정을 시작합니다. 경제협력을 강화하는 신남방정책에 속도를 낼 계획입니다...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K2W__FqDDiM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K2W__FqDDiM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K2W__FqDDiM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "뉴스TVCHOSUN",
+      "liveBroadcastContent": "none"
+    }
+  }
+]
